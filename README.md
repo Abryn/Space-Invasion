@@ -2,7 +2,7 @@
 A game similar to Alien Invaders by Tomohiro Nishikado.
 
 # Kort förklaring om vad jag gjort
-Gjordes med Pygame.
+Gjordes med Pygame. Notera att du kan behöva ladda ner Python moduler som Pygame, Random och Threading.
 
 space_invasion.py är huvudfilen där man kör spelet.
 
